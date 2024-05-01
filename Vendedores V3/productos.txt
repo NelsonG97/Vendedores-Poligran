@@ -1,0 +1,5 @@
+IDProducto1;NombreProducto1;14.419970216173727
+IDProducto2;NombreProducto2;73.08475023997667
+IDProducto3;NombreProducto3;12.282484422950525
+IDProducto4;NombreProducto4;43.33503002810571
+IDProducto5;NombreProducto5;14.054155479092623

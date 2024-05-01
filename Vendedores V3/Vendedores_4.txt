@@ -1,0 +1,6 @@
+TipoDocumentoVendedor;NúmeroDocumentoVendedor
+CC;7822246
+CC;4825424
+CC;6016415
+TI;3600095
+TI;6109638

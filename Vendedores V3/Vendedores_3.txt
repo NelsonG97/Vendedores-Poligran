@@ -1,0 +1,4 @@
+TipoDocumentoVendedor;NúmeroDocumentoVendedor
+CC;5051573
+CC;2413485
+TI;6232357
