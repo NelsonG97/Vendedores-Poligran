@@ -1,0 +1,19 @@
+Conclusiones
+
+Automatización de tareas repetitivas: El proyecto tiene como objetivo principal generar archivos planos pseudoaleatorios de vendedores y productos de forma automática. Esto elimina la necesidad de crear manualmente estos archivos, lo que ahorra tiempo y reduce posibles errores humanos.
+
+Uso de la programación orientada a objetos: El código está estructurado en clases y métodos que realizan tareas específicas. Esto facilita la organización del código y permite una mayor modularidad y reutilización.
+Manejo de excepciones: El proyecto maneja excepciones mediante el uso de bloques try-catch para capturar y manejar posibles errores durante la ejecución del programa. Esto mejora la robustez del software al anticiparse a posibles problemas y manejarlos de manera adecuada.
+
+Generación de datos pseudoaleatorios: Se utilizan funciones aleatorias para generar datos pseudoaleatorios, como el tipo y el número de documento de los vendedores, así como los precios de los productos. Esto proporciona una variedad de datos para los archivos generados, lo que los hace más realistas y útiles para pruebas y simulaciones.
+
+Documentación adecuada: Se ha añadido documentación al código utilizando comentarios y estilo Javadoc para explicar la funcionalidad de cada método y proporcionar información general sobre el programa y los autores. Esto mejora la comprensión del código y facilita su mantenimiento y colaboración en el futuro.
+
+En resumen, el proyecto demuestra un enfoque estructurado y eficiente para la generación de archivos planos pseudoaleatorios, con atención a la calidad del código y la documentación. Este enfoque contribuye a la creación de software más robusto, mantenible y fácil de entender.
+
+
+Integrantes
+
+Jorge Luis Cano Toro.
+Nelson Hernando Guarin Benitez
+Politecnico Gran Colombiano
